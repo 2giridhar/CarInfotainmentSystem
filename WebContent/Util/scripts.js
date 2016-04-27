@@ -1,0 +1,3 @@
+performActionFor = function(command){
+	
+}
