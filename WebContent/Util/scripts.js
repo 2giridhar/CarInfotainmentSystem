@@ -23,5 +23,5 @@ performActionFor = function(command){
 function clearContent(){
 	
 	setTimeout(function(){document.getElementById("start_button").click(); }, 3000);
-	document.getElementById("start_button").click();
+	$("#start_button").click();
 }
